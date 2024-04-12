@@ -1,0 +1,29 @@
+li{
+    list-style-type: none;
+    font-size: 20px;
+    border-top: solid 0.2px;
+    border-bottom: solid 0.2px;
+    border-color: gray;
+    font-weight: 300;
+    text-align: left;
+    
+}
+ul{
+    margin-top: 0;
+    padding-left: 0;
+    /* background:blue; */
+    width: 200px;
+    
+}
+body{
+    padding-left: 0;
+    text-align: left;
+}
+header{
+    background:blue;
+    font-size: 36px;
+    font-weight:700;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:white;
+}
